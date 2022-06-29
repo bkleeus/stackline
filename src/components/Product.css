@@ -1,0 +1,4 @@
+.product-box {
+    background-color: white;
+    grid-row: span 2;
+}
