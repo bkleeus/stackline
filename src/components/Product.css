@@ -1,4 +1,8 @@
-.product-box {
-    background-color: white;
-    grid-row: span 2;
+.product-container {
+    display: grid;
+    padding: 80px 20px 0px 21px;
+    grid-template-columns: 375px auto;
+    grid-auto-rows: minmax(200px, auto);
+    grid-gap: 78px 20px;
+    font-family: century-gothic, sans-serif;
 }

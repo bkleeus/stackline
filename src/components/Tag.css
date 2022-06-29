@@ -1,0 +1,14 @@
+.tag {
+    background-color: white;
+    padding: 4px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 7px 4px;
+    cursor: default;
+    color: #6E5C7E;
+    border: 2px solid #EAEDF3;
+    border-radius: 6px;
+    font-size: 14px;
+    font-family: century-gothic, sans-serif;
+}

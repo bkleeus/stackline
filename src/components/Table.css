@@ -1,5 +1,19 @@
 .table-box {
     min-width: 200px;
+    margin-bottom: 20px;
     background-color: white;
     flex-direction: column;
+}
+
+.number {
+    text-align: right;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #B1BDCD;
+}
+
+.date {
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #B1BDCD;
 }

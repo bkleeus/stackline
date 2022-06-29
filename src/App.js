@@ -1,15 +1,11 @@
-import { Header, Product, Chart, Table } from './components';
+import { Header, Product } from './components';
 import './App.css';
 
 function App() {
   return (
     <div className='container'>
-      <Header/>
-      <div className='product-container'>
-        <Product/>
-        <Chart/>
-        <Table/>
-      </div>
+      <Header />
+      <Product />
     </div>
   );
 }
